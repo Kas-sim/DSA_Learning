@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/Tree/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
